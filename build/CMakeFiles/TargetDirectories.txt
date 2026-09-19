@@ -1,0 +1,3 @@
+/Users/nathansecord/Code/algo visualizer/build/CMakeFiles/main.dir
+/Users/nathansecord/Code/algo visualizer/build/CMakeFiles/edit_cache.dir
+/Users/nathansecord/Code/algo visualizer/build/CMakeFiles/rebuild_cache.dir
